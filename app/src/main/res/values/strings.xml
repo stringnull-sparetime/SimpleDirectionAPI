@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleDirectionAPI</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="api_key">AIzaSyASf-dPlL7pIXZbPTc1vKYSJGg9B5c-MoM</string>
+</resources>
